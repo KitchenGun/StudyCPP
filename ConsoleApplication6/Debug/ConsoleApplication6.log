@@ -1,0 +1,3 @@
+﻿  ConsoleApplication6.cpp
+D:\Git\C복습\StudyCPP\ConsoleApplication6\ConsoleApplication6.cpp(152): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  ConsoleApplication6.vcxproj -> D:\Git\C복습\StudyCPP\ConsoleApplication6\Debug\ConsoleApplication6.exe
