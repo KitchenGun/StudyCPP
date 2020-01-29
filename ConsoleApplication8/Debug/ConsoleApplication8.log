@@ -1,0 +1,17 @@
+﻿  ConsoleApplication8.cpp
+D:\Git\C복습\StudyCPP\ConsoleApplication8\ConsoleApplication8.cpp(28): warning C4244: '=': 'Y2'에서 'Y1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              Y2=double
+          ]
+          and
+          [
+              Y1=int
+          ]
+  D:\Git\C복습\StudyCPP\ConsoleApplication8\ConsoleApplication8.cpp(47): note: 컴파일 중인 함수 템플릿 인스턴스화 'Y1 myMin<int,double>(Y1,Y2)'에 대한 참조를 확인하십시오.
+          with
+          [
+              Y1=int,
+              Y2=double
+          ]
+  ConsoleApplication8.vcxproj -> D:\Git\C복습\StudyCPP\ConsoleApplication8\Debug\ConsoleApplication8.exe
