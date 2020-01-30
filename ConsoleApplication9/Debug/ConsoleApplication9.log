@@ -1,0 +1,3 @@
+﻿  ConsoleApplication9.cpp
+D:\Git\C복습\StudyCPP\ConsoleApplication9\ConsoleApplication9.cpp(52): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+LINK : fatal error LNK1104: 'D:\Git\C복습\StudyCPP\ConsoleApplication9\Debug\ConsoleApplication9.exe' 파일을 열 수 없습니다.
